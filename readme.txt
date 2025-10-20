@@ -2,9 +2,9 @@
 
 DESCRIPTION:
 
-LUTHER is a modern, stylish, free personal website template designed for creative individuals 
+Hassan is a modern, stylish, free personal website template designed for creative individuals 
 and professionals. It is the perfect template if you wish to build an online presence and create 
-a strong first impression on all your site visitors. Luther will help you craft a personal 
+a strong first impression on all your site visitors. Hassan will help you craft a personal 
 professional website wherein you can showcase your works, talents, and present yourself on the 
 web in the best possible light. On top of that, the template is versatile and easy to customize 
 so with some modifications and a bit of creativity you even use it as a portfolio site for 
@@ -72,7 +72,7 @@ Also, keep your Paypal receipt as proof of payment and your good to go.
 
 SUPPORT:
     
-Since LUTHER is distributed for free, support is not offered. LUTHER is coded according 
+Since Hassan is distributed for free, support is not offered. Hassan is coded according 
 to current web standards and we did our best to make the template easy to use and modify.
 If you have minimum web development experience, you can easily modify the template. 
 However, If you're still new to HTML and CSS, I suggest that you visit the 
@@ -128,5 +128,6 @@ Javascript Files:
 
 
 Thanks for downloading from Styleshout :)
+
 
 
